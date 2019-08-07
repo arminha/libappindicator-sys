@@ -21,5 +21,5 @@ gobject-sys = "0.9"
 gdk-sys = "0.9"
 
 [build-dependencies]
-bindgen = "0.50"
+bindgen = "0.51"
 pkg-config = "0.3"
